@@ -1,0 +1,43 @@
+{
+    "hero_key_name": "isaac",
+    "initial_action": "idle",
+    "initial_direction": "down",
+    "map_key_name": "madra",
+    "initial_scale_factor": 2,
+    "x_tile_position": 32,
+    "y_tile_position": 23,
+    "map_z_index": 0,
+    "coins": 10000,
+    "initial_shortcuts": {
+        "move": "isaac",
+        "frost": "sheba",
+        "growth": "isaac"
+    },
+    "default_inputs":{
+        "LEFT": "LEFT",
+        "RIGHT": "RIGHT",
+        "UP": "UP",
+        "DOWN": "DOWN",
+        "A": "Z",
+        "B": "X",
+        "L": "A",
+        "R": "S",
+        "SELECT": "BACKSPACE",
+        "START": "ENTER",
+        "PSY1": "Q",
+        "PSY2": "W",
+        "PSY3": "E",
+        "ZOOM1": "ONE",
+        "ZOOM2": "TWO",
+        "ZOOM3": "THREE",
+        "MUTE": "M",
+        "DEBUG_PHYSICS": "D",
+        "DEBUG_GRID": "G",
+        "DEBUG_KEYS": "K",
+        "DEBUG_STATS": "T",
+        "DEBUG_FPS": "F",
+        "DEBUG_SLIDERS": "L",
+        "DEBUG_CAM_MINUS": "PAGE_DOWN",
+        "DEBUG_CAM_PLUS": "PAGE_UP"
+    }
+}

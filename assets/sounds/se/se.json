@@ -1,0 +1,117 @@
+{
+    "menu_se": {
+        "audio": "assets/sounds/se/menu.ogg",
+        "json": {
+            "spritemap": {
+                "menu_move": {
+                    "start": 0.01,
+                    "end": 0.149
+                },
+                "menu_negative": {
+                    "start": 0.149,
+                    "end": 0.76
+                },
+                "menu_positive": {
+                    "start": 0.76,
+                    "end": 1.44
+                },
+                "menu_positive_2": {
+                    "start": 1.57,
+                    "end": 2.407
+                },
+                "menu_positive_3": {
+                    "start": 2.407,
+                    "end": 3.199
+                },
+                "menu_positive_4": {
+                    "start": 3.199,
+                    "end": 3.9
+                }
+            }
+        }
+    },
+    "psynergy_se": {
+        "audio": "assets/sounds/se/psynergy.ogg",
+        "json": {
+            "spritemap": {
+                "psynergy_1": {
+                    "start": 0,
+                    "end": 0.995
+                },
+                "psynergy_2": {
+                    "start": 0.995,
+                    "end": 1.997
+                },
+                "psynergy_3": {
+                    "start": 1.997,
+                    "end": 3.971
+                },
+                "psynergy_4": {
+                    "start": 3.971,
+                    "end": 5.13
+                },
+                "psynergy_5": {
+                    "start": 5.13,
+                    "end": 5.709
+                },
+                "psynergy_6": {
+                    "start": 5.709,
+                    "end": 6.309
+                },
+                "psynergy_7": {
+                    "start": 6.313,
+                    "end": 8.144
+                }
+            }
+        }
+    },
+    "actions_se": {
+        "audio": "assets/sounds/se/actions.ogg",
+        "json": {
+            "spritemap": {
+                "push": {
+                    "start": 0.01,
+                    "end": 1.860
+                },
+                "jump": {
+                    "start": 1.872,
+                    "end": 2.42
+                },
+                "slide": {
+                    "start": 2.415,
+                    "end": 3.315
+                }
+            }
+        }
+    },
+    "misc_se": {
+        "audio": "assets/sounds/se/misc.ogg",
+        "json": {
+            "spritemap": {
+                "rock_drop": {
+                    "start": 0.01,
+                    "end": 0.903
+                },
+                "ice_hitting": {
+                    "start": 0.903,
+                    "end": 2.033
+                }
+            }
+        }
+    },
+    "battle_se": {
+        "audio": "assets/sounds/se/battle.ogg",
+        "json": {
+            "spritemap": {
+                "heal_1": {
+                    "start": 0.01,
+                    "end": 1.226
+                },
+                "hit_1": {
+                    "start": 1.226,
+                    "end": 2.154
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,21 @@
+[
+    {
+        "key_name": "briggs_party",
+        "name": "Briggs' party",
+        "members": [
+            {
+                "key": "sea_fighter",
+                "min": 1,
+                "max": 1
+            },{
+                "key": "briggs",
+                "min": 1,
+                "max": 1
+            },{
+                "key": "sea_fighter",
+                "min": 1,
+                "max": 1
+            }
+        ]
+    }
+]
